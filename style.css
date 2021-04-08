@@ -1,0 +1,34 @@
+#leprechaun {
+  width: 450px;
+  height: 350px;
+}
+
+#background {
+  background-image: url(images/clouds.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+#rainbow {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  height: 20%;
+  width: 20%;
+}
+
+#heading {
+  text-align: center;
+  font-family: cursive;
+  color: aliceblue;
+  font-size: 200%;
+}
+
+.text {
+  font-family: monospace;
+  color: darkgreen;
+}
+
+.centre {
+  text-align: center;
+}
