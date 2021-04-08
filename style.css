@@ -3,6 +3,18 @@
   height: 350px;
 }
 
+#investment {
+  float: left;
+  width: 10%;
+  height: 10%;
+}
+
+#piggy {
+  float: right;
+  width: 10%;
+  height: 10%;
+}
+
 #background {
   background-image: url(images/clouds.jpg);
   background-repeat: no-repeat;
